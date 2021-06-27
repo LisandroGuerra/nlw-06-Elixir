@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Phoenix](https://phoenixframework.org/)
 - [GraphQL](https://graphql.org)
 
-### ✨ Milha Extra
+## ✨ Milha Extra
 - Refatorado para usar a cláusula "case"
 - Resolvida a questão do ID no teste de schema "user queries"
 - Incluindo mais testes (em andamento...)
