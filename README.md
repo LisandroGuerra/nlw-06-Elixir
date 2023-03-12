@@ -1,6 +1,6 @@
 ## 🚀 Next Level Week 06 (together)
 
-Evento Rocketseat com missões:
+Rocketseat event with quests:
 - Discover
 - Elixir
 - Flutter
@@ -11,18 +11,18 @@ Evento Rocketseat com missões:
 
 
 
-## 💻 Elixir: Projeto Wabanex
+## 💻 Elixir: Wabanex Project
 
-### Tecnologias
+### Tecnologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Elixix](https://elixir-lang.org/)
 - [Phoenix](https://phoenixframework.org/)
 - [GraphQL](https://graphql.org)
 
-## ✨ Milha Extra
-- Refatorado para usar a cláusula "case"
-- Resolvida a questão do ID no teste de schema "user queries"
-- Incluindo mais testes (em andamento...)
-- Em breve mais ...
+## ✨ Extra Mile
+- Refactored to use "case" clause
+- Resolved ID issue in "user queries" schema test
+- Including more tests (in progress...)
+- More coming soon...
